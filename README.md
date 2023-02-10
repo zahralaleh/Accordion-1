@@ -1,3 +1,3 @@
 # Accordion
 
-The first accordion
+The First Accordion
